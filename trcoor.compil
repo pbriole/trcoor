@@ -1,0 +1,4 @@
+#Option 1: regle un probleme de COMMON
+#Option 2: produit un executable statique
+
+gfortran trcoor.f -fno-align-commons -s
